@@ -23,11 +23,26 @@ This is another no-code image classification project using **Azure AI Custom Vis
 Quick training was completed using the free tier (`F0`).  
 The precision, recall, and probability scores are stored in `results/performance.json`.
 
+## Training Metrics Preview  
+A snapshot from the training moment, captured during a magical classification demo using Azure Custom Vision.
+
+![Training Results](results/training-scores.png)
+
+> Tags used: "Corals" and "Ashwinder."  
+> Accuracy: 50% — a meaningful first step in model learning
+
 > The project uses a small sample for experimentation. Accuracy will improve with larger, balanced datasets.
 
 ## Source Image Safety
 
 All image uploads used are safe for public sharing and do not contain personal data. Tags are poetic, playful, and intended for exploratory AI testing only.
+
+## Project Timeline
+
+- Phase 1: Created Custom Vision project  
+- Phase 2: Trained with 5 images per tag  
+- Phase 3: Captured training metrics  
+- Phase 4: Expand dataset, retrain, and document results
 
 ## Next Steps
 
