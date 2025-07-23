@@ -26,7 +26,7 @@ The precision, recall, and probability scores are stored in `results/performance
 ## Training Metrics Preview  
 A snapshot from the training moment, captured during a magical classification demo using Azure Custom Vision.
 
-![Training Results](results/training-scores.png)
+![Training Results](demoresults.png)
 
 > Tags used: "Corals" and "Ashwinder."  
 > Accuracy: 50% — a meaningful first step in model learning
