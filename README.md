@@ -52,7 +52,7 @@ All image uploads used are safe for public sharing and do not contain personal d
 
 ##Final Note
 
-Moving on to the next task, will circle back on this and create a better pipeline for Custom Vision
+>Moving on to the next task, will circle back on this and create a better pipeline for Custom Vision
 
 ---
 
