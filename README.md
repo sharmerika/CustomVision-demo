@@ -11,7 +11,7 @@ This is another no-code image classification project using **Azure AI Custom Vis
 - Trained a classifier with a small dataset (5 images per tag)
 - Achieved 50% accuracy on initial training (and proud of it!)
 
-## 🗂Repo Contents
+## Repo Contents
 
 | Folder     | Description                                  |
 |------------|----------------------------------------------|
@@ -50,7 +50,7 @@ All image uploads used are safe for public sharing and do not contain personal d
 - Try multi-tag classification or object detection
 - Possibly script training pipeline in Python or PowerShell
 
-###Final Note
+Final Note
 
 >Moving on to the next task, I will circle back on this and create a better pipeline for Custom Vision
 
