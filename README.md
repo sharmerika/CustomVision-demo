@@ -39,7 +39,7 @@ All image uploads used are safe for public sharing and do not contain personal d
 
 ## Project Timeline
 
-- Phase 1: Created Custom Vision project  
+- Phase 1: Created a Custom Vision project  
 - Phase 2: Trained with 5 images per tag  
 - Phase 3: Captured training metrics  
 - Phase 4: Expand dataset, retrain, and document results
@@ -50,9 +50,9 @@ All image uploads used are safe for public sharing and do not contain personal d
 - Try multi-tag classification or object detection
 - Possibly script training pipeline in Python or PowerShell
 
-##Final Note
+###Final Note
 
->Moving on to the next task, will circle back on this and create a better pipeline for Custom Vision
+>Moving on to the next task, I will circle back on this and create a better pipeline for Custom Vision
 
 ---
 
